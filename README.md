@@ -74,3 +74,11 @@ A passionate developer focused on creating innovative solutions and participatin
 - 🐦 Telegram: [@rosehipbloom](https://t.me/rosehipbloom)
 - 🐦🐦 Telegram channel: [@from13floor](https://t.me/from13floor)
 - 🌐 GitHub: [@projacktor](https://github.com/projacktor)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/projacktor/projacktor/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/projacktor/projacktor/snake/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/projacktor/projacktor/snake/github-contribution-grid-snake.svg">
+  </picture>
+</p>
