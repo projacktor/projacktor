@@ -6,7 +6,7 @@
 A passionate developer focused on creating innovative solutions and participating in hackathons, CTFs 🚀. I love automating processes, building scalable applications, and optimizing systems. I am a strong advocate for 📜 open source and modern technologies.
 
 - ⚡ **Fun fact:** I participate in hackathons and create solutions for real business challenges - from AI JSON-schema builders to UX optimization for e-commerce applications
-- :bulb: I'm interested in everything related to: **Full-Stack Development, AI/ML, Web Technologies, System Administration, Cybersecurity**
+- :bulb: I'm interested in everything related to: **Full-Stack Development, AppSec, DevSecOps, SOC analytics, Threat Hunting, OSINT**
 - 🎓 [Innopolis University](https://innopolis.university/en/) bachelor student
 - 💻 [One-zero-eight](https://github.com/one-zero-eight) community member and developer
 - 💬 Talk to me about, hackathons, open source projects, programming and cybersecurity
