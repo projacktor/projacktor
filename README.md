@@ -16,8 +16,7 @@ A passionate developer focused on creating innovative solutions and participatin
 <p align="center">
 	<img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Nuxt.js" alt="Nuxt.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Next.js" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
@@ -44,7 +43,7 @@ A passionate developer focused on creating innovative solutions and participatin
 
 ### 🏆 My Achievements
 
-- 🥇 Participant in multiple hackathons (MTS True Tech Hack 2025, VTB More, VneDraid Latech)
+- 🥇 Participant in multiple hackathons (MTS True Tech Hack 2025, VTB More, VNEDREID)
 - 🎓 Developing solutions for Innopolis University scholarship platform
 - 💼 Creating AI and ML solutions for HR and e-commerce
 - 🌐 Building web interfaces and administration systems
