@@ -5,33 +5,37 @@
 
 A passionate developer focused on creating innovative solutions and participating in hackathons, CTFs 🚀. I love automating processes, building scalable applications, and optimizing systems. I am a strong advocate for 📜 open source and modern technologies.
 
-- ⚡ **Fun fact:** I participate in hackathons and create solutions for real business challenges - from AI JSON-schema builders to UX optimization for e-commerce applications
-- :bulb: I'm interested in everything related to: **Full-Stack Development, AppSec, DevSecOps, SOC analytics, Threat Hunting, OSINT**
+- ⚡ **Fun fact:** I participate in hackathons, CTFs and create solutions for real business challenges - from AI JSON-schema builders to UX optimization for e-commerce applications
+- :bulb: I'm interested in everything related to: **Full-Stack Development, AppSec/DevSecOps, SOC analytics, Threat Hunting, OSINT**
 - 🎓 [Innopolis University](https://innopolis.university/en/) bachelor student
 - 💻 [One-zero-eight](https://github.com/one-zero-eight) community member and developer
 - 💬 Talk to me about, hackathons, open source projects, programming and cybersecurity
 
 ### My skills include
 
-<p align="center">
-	<img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Nuxt.js" alt="Nuxt.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Next.js" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Node.js" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="NestJS" alt="NestJS" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="PyQT" alt="PyQT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="GitHub Actions" alt="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Vite" alt="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="ChatGPT" alt="ChatGPT" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Claude" alt="Claude" src="https://claude.ai/favicon.ico" width="40" height="40" style="vertical-align:down; margin:4px"/>
-</p>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td><img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+      <td><img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
+      <td><img title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
+      <td><img title="Nuxt.js" alt="Nuxt.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40"/></td>
+      <td><img title="Next.js" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></td>
+      <td><img title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></td>
+      <td><img title="Node.js" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
+      <td><img title="NestJS" alt="NestJS" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" width="40" height="40"/></td>
+      <td><img title="PyQT" alt="PyQT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40"/></td>
+      <td><img title="GitHub Actions" alt="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></td>
+      <td><img title="Vite" alt="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/></td>
+      <td><img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
+      <td><img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td>
+      <td><img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
+      <td><img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></td>
+      <td><img title="ChatGPT" alt="ChatGPT" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/></td>
+      <td><img title="Claude" alt="Claude" src="https://claude.ai/favicon.ico" width="40" height="40"/></td>
+    </tr>
+  </table>
+</div>
 
 ### 🛠️ UI Libraries & Tools
 
