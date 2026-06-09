@@ -16,7 +16,7 @@
   <h2>About</h2>
 
   <b>
-    ⚡ I participate in hackathons and CTFs, and build solutions for real business challenges.<br>
+    ⚡ Hackathons and CTFs, build solutions for real business challenges.<br>
     🎓 <a href="https://innopolis.university/en/">Innopolis University</a> bachelor student<br>
     💻 <a href="https://github.com/one-zero-eight">one-zero-eight</a> community member and developer<br>
     🛡️ <a href="https://ctftime.org/team/419269">SOCtoberfest</a> CTF team leader<br>
