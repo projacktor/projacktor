@@ -2,7 +2,7 @@
   <h1>Galiev Arsen (projacktor)</h1>
   <h3>Cybersecurity x Development</h3>
 
-  <p><b>AppSec/DevSecOps. Threat Intelligence. OSINT. DFIR. Full-Stack dev.</b></p>
+  <p><b>AppSec/DevSecOps. Threat Intelligence. OSINT. Full-Stack dev.</b></p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=projacktor&color=brightgreen" alt="Profile Views" />
